@@ -7,6 +7,8 @@ void display() {
     glFlush();
 }
 
+GOOD BYE`
+
 void main(int argc, char**argv) {
     glutInit(&argc, argv);
     glutInitWindowPosition(100,100);
